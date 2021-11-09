@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+.body {
+	background-color: hsl(67, 10%, 75%);
+	font-family: sans-serif;
+	font-size: 1.5rem;
+	text-align: justify;
+}
+
+.main_title {
+	color: hsl(240, 65%, 25%);
+	font-weight: 900;
+	letter-spacing: 50px;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+.secondary_titles {
+	clear: both;
+	background-color: hsl(68, 30%, 30%);
+	color: white;
+}
+
+.float_left {
+	float: left;
+}
+
+.float_right {
+	float: right;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.center {
+	text-align: center;
+}
+
+.pie {
+	text-align: left;
+	font-style: italic;
+	font-size: small;
+}
